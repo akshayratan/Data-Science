@@ -2,7 +2,6 @@ Data-Science
 ============
 
 This repository contains some of my data science mini-projects. 
-Akshay Ratan (C) 2014
 
 Steps for running:
 1) Clone the repository
